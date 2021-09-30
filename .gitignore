@@ -1,0 +1,3 @@
+*.zarr
+dask-worker-space
+__pycache__
